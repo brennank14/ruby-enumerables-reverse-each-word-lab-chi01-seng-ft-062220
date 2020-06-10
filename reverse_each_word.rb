@@ -1,4 +1,4 @@
-sentense = "Hello my name is Kathleen"
+sentence = "Hello my name is Kathleen"
 
 def reverse_each_word(sentence)
   sentence_array = sentence.split(/ /)
