@@ -5,4 +5,4 @@ def reverse_each_word(sentence)
   new_sentence = sentence_array.each {|element| element.reverse}
 end
 
-reverse_each_word(sentence)
+puts reverse_each_word(sentence)
